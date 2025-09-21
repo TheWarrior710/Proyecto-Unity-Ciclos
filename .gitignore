@@ -1,0 +1,56 @@
+# Archivos y carpetas que Unity genera automáticamente
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Archivos de caché de Unity
+obj/
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de VS Code
+.vscode/
+.vs/
+
+# Archivos de Rider
+.idea/
+
+# Archivos de backup
+*.bak
+*.tmp
+*.swp
+
+# Archivos de builds exportados
+*.apk
+*.aab
+*.xcodeproj
+*.xcworkspace
+
+# Carpeta de paquetes descargados
+Packages/com.unity.package-manager-ui
+
+# Archivos de renders o videos (mantenerlos fuera del repo)
+*.mp4
+*.avi
+*.mov
+*.wav
+*.mp3
+*.png
+*.jpg
